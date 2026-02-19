@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="title_activity_main">Bank</string>
+    <string name="package_name">com.bank.app</string>
+    <string name="custom_url_scheme">com.bank.app</string>
+</resources>

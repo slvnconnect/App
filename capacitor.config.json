@@ -1,0 +1,10 @@
+{
+  "appId": "com.bank.app",
+  "appName": "Bank",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
